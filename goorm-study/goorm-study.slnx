@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="goorm-study/goorm-study.vcxproj" Id="76033177-aa81-4d42-a65d-3321bda2aaf9" />
+</Solution>
