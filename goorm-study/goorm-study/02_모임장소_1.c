@@ -1,6 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
+#pragma warning(disable:6031)
 #include <stdio.h>
-#include <stdlib.h> // abs() 함수와 qsort()를 쓰기 위해 필요해!
+#include <stdlib.h> // abs() 함수와 qsort()를 쓰기 위해 필요
 
     int compare(const void* a, const void* b) {
         return (*(int*)a - *(int*)b);

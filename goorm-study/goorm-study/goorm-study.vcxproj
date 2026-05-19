@@ -139,7 +139,10 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01.정수형_숫자_알기.c" />
+    <ClCompile Include="01_정수형_숫자_알기.c" />
+    <ClCompile Include="02_모임장소_1.c" />
+    <ClCompile Include="03_흰색_체스.cpp" />
+    <ClCompile Include="04_게이지_게임.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

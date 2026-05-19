@@ -15,7 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01.정수형_숫자_알기.c">
+    <ClCompile Include="01_정수형_숫자_알기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="02_모임장소_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="03_흰색_체스.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="04_게이지_게임.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
