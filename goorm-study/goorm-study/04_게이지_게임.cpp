@@ -3,7 +3,6 @@
 #include <stdio.h>
 
 int main() {
-	int Gage = 0;
 	int D, L, R;
     int gauge = 0;
     int success = 0;

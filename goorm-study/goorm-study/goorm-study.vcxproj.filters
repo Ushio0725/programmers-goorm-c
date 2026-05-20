@@ -27,5 +27,11 @@
     <ClCompile Include="04_게이지_게임.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="06_헷갈리는_작대기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="05_딱지놀이.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
