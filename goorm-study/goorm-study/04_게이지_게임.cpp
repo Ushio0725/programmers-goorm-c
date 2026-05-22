@@ -2,7 +2,7 @@
 #pragma warning(disable:6031)
 #include <stdio.h>
 
-int main() {
+int main1233() {
 	int D, L, R;
     int gauge = 0;
     int success = 0;

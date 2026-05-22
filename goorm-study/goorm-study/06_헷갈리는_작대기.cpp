@@ -4,7 +4,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-int main() {
+int main12() {
 	int a = 0, b = 0, c = 0, d = 0;
 	char str[10000];
 

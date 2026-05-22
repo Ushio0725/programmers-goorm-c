@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <string.h>
 
-    int main() {
+    int mainw21() {
         int N;
         if (scanf("%d", &N) != 1) return 0;
 

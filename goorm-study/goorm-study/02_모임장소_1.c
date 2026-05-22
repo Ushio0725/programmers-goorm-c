@@ -7,7 +7,7 @@
         return (*(int*)a - *(int*)b);
     }
 
-    int main() {
+    int maian() {
         int N;
         scanf("%d", &N);
 

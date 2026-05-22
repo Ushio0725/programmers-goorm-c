@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <string.h>
 
-int main() {
+int main3s() {
 	char N[100]; // 넉넉하게 배열 100칸을 선언한다.
 
 	scanf("%s", N); // 값을 입력받는다.

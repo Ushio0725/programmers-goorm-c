@@ -2,7 +2,7 @@
 #pragma warning(disable:6031)
 #include <stdio.h>
 
-int main() {
+int maine() {
     char space[8][9];
     int white = 0;
 
